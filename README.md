@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-
-
-Here are some ideas to get you started:
-
 👋 Hello, I'm @mcanavar97 (Muhammet Canavar). I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
 
 👀 I always aim for the most functional, applicable, and readable code.
