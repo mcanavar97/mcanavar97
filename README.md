@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hello, I'm Muhammet Canavar. I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
+👋 Hello, I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
 
 👀 I always aim for the most functional, applicable, and readable code.
 
