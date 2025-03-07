@@ -4,7 +4,7 @@
 
 👀 I always aim for the most functional, applicable, and readable code.
 
-🔮 I develop projects with Html, Css, React, Javascript, Redux.js, Sass, Bs...
+🔮 I develop projects with Html, Css, React, Javascript, Redux.js, Sass, Bs,  Typescript...
 
 💬 You can ask me questions about my areas of interest: React JS, React , Typescript, Javascript.
 
