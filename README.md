@@ -6,7 +6,7 @@
 
 🔮 I develop projects with Html, Css, React, Javascript...
 
-💬 You can ask me questions about my areas of interest: React JS, React Native, Typescript, Javascript.
+💬 You can ask me questions about my areas of interest: React JS, React , Typescript, Javascript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
