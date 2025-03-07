@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-👋 Hello, I'm @mcanavar97 (Muhammet Canavar). I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
+👋 Hello, I'm Muhammet Canavar. I have been actively working as a professional for some time, driven by my passion for programming even before formal education.
 
 👀 I always aim for the most functional, applicable, and readable code.
 
 🔮 I develop projects with Html, Css, React, Javascript...
 
-💬 Ask me about Html, Css, React, Javascript...
+💬 You can ask me questions about my areas of interest: React JS, React Native, Typescript, Javascript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
